@@ -28,6 +28,7 @@ Using a specialized language model, this tool enables easy study and revision of
 
 #### Languages
 - ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+- ![Dart](https://img.shields.io/badge/Dart-2.x-blue)
 
 #### Frameworks
 - ![Unsloth](https://img.shields.io/badge/Framework-Unsloth-blueviolet)
@@ -38,6 +39,10 @@ Using a specialized language model, this tool enables easy study and revision of
 
 #### Tools
 - ![LLaMA](https://img.shields.io/badge/LLaMA-Language%20Model-orange)
+
+### Interface
+- The project includes a mobile app built with ![Flutter](https://img.shields.io/badge/Flutter-2.x-blue) to provide an accessible interface for interacting with the KTU-specific language model. The app allows users to query, receive answers, and get summaries tailored to the KTU syllabus.
+
 
 ### Hardware
 

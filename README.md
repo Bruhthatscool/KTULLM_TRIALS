@@ -85,6 +85,12 @@ Using a specialized language model, this tool enables easy study and revision of
 
   # Additional Demos
 
+For additional demos please refer to these resources
+
+Reddit : https://www.reddit.com/r/LocalLLaMA/comments/1e416fo/stepbystep_tutorial_how_to_finetune_llama_3_8b/
+
+Unsloth Demo : https://docs.unsloth.ai/tutorials/how-to-finetune-llama-3-and-export-to-ollama
+
  ## Team Contributions
 
 Our project was brought to life through the dedicated efforts and expertise of each team member, contributing uniquely to the creation of a robust and effective academic tool.

@@ -85,9 +85,15 @@ Using a specialized language model, this tool enables easy study and revision of
 
   # Additional Demos
 
-  ## Team Contributions
-  - [Sabari]  : []
-  - [Haridev] : []
-  - [Anna]    : []
+ ## Team Contributions
+
+Our project was brought to life through the dedicated efforts and expertise of each team member, contributing uniquely to the creation of a robust and effective academic tool.
+
+- **[Sabari]**: Fine-tuned the large language model (LLM), optimizing it for accuracy and relevance to the KTU syllabus, ensuring that the model is both responsive and informative for students.
+
+- **[Haridev]**: Developed the server and application infrastructure, seamlessly integrating it with the LLM model to provide an efficient and user-friendly interface for interaction.
+
+- **[Anna]**: Curated and prepared the dataset for training, also contributing to the fine-tuning process of the LLM, which was critical to the model's ability to offer tailored responses aligned with the KTU curriculum.
+
  
     ---
